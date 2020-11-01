@@ -1,9 +1,1 @@
-#### Introduction
-```
-I'm a student from USTC, interested in computer vision and information security.
-```
-
-#### Contact me
-```
-email: charlesblwx@gmail.com
-```
+![Charles's github stats](https://github-readme-stats.vercel.app/api?username=CharlesPikachu&show_icons=true)
