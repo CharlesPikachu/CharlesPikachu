@@ -1,7 +1,7 @@
 Hello, I'm [CharlesPikachu](https://charlespikachu.github.io/) 👋
 
 
-## Popular Projects
+## 🔥 Popular Projects
 
 - [Games](https://github.com/CharlesPikachu/Games): Create interesting games by pure python.
 - [DecryptLogin](https://github.com/CharlesPikachu/DecryptLogin): APIs for loginning some websites by using requests.
