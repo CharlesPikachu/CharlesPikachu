@@ -9,6 +9,7 @@ Hello, I'm [CharlesPikachu](https://charlespikachu.github.io/) 👋
 - [Videodl](https://github.com/CharlesPikachu/videodl): A lightweight video downloader written by pure python.
 - [Pytools](https://github.com/CharlesPikachu/pytools): Some useful tools written by pure python.
 - [PikachuWeChat](https://github.com/CharlesPikachu/pikachuwechat): Play WeChat with itchat-uos.
+- [SSSegmentation](https://github.com/SegmentationBLWX/sssegmentation): An Open Source Strongly Supervised Semantic Segmentation Toolbox Based on PyTorch.
 
 
 ## 🏆 Github Trophy
