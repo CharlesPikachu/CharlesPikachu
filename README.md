@@ -10,7 +10,7 @@ Hello, I'm [CharlesPikachu](https://charlespikachu.github.io/) 👋
 - [Pytools](https://github.com/CharlesPikachu/pytools): Some useful tools written by pure python.
 - [PikachuWeChat](https://github.com/CharlesPikachu/pikachuwechat): Play WeChat with itchat-uos.
 - [SSSegmentation](https://github.com/SegmentationBLWX/sssegmentation): An Open Source Strongly Supervised Semantic Segmentation Toolbox Based on PyTorch.
-- [Pydrawing](https://github.com/CharlesPikachu/pydrawing): Beautify your image or video
+- [Pydrawing](https://github.com/CharlesPikachu/pydrawing): Beautify your image or video.
 
 
 ## 🏆 Github Trophy
