@@ -11,6 +11,7 @@ Hello, I'm [CharlesPikachu](https://charlespikachu.github.io/) 👋
 - [PikachuWeChat](https://github.com/CharlesPikachu/pikachuwechat): Play WeChat with itchat-uos.
 - [SSSegmentation](https://github.com/SegmentationBLWX/sssegmentation): An Open Source Strongly Supervised Semantic Segmentation Toolbox Based on PyTorch.
 - [Pydrawing](https://github.com/CharlesPikachu/pydrawing): Beautify your image or video.
+- [ImageCompressor](https://github.com/CharlesPikachu/imagecompressor): Image compressors written by pure python.
 
 
 ## 🏆 Github Trophy
