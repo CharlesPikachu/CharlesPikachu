@@ -12,7 +12,8 @@ Hello, I'm [CharlesPikachu](https://charlespikachu.github.io/) 👋
 - [SSSegmentation](https://github.com/SegmentationBLWX/sssegmentation): An Open Source Strongly Supervised Semantic Segmentation Toolbox Based on PyTorch.
 - [Pydrawing](https://github.com/CharlesPikachu/pydrawing): Beautify your image or video.
 - [ImageCompressor](https://github.com/CharlesPikachu/imagecompressor): Image compressors written by pure python.
-- [FreeProxy](https://github.com/CharlesPikachu/freeproxy): FreeProxy: Collecting free proxies from internet.
+- [FreeProxy](https://github.com/CharlesPikachu/freeproxy): Collecting free proxies from internet.
+- [Constellation](https://github.com/CharlesPikachu/constellation): Beautiful starry sky written by js.
 
 
 ## 🏆 Github Trophy
