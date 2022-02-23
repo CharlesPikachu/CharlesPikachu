@@ -14,6 +14,7 @@ Hello, I'm [CharlesPikachu](https://charlespikachu.github.io/) 👋
 - [ImageCompressor](https://github.com/CharlesPikachu/imagecompressor): Image compressors written by pure python.
 - [FreeProxy](https://github.com/CharlesPikachu/freeproxy): Collecting free proxies from internet.
 - [Constellation](https://github.com/CharlesPikachu/constellation): Beautiful starry sky written by js.
+- [Paperdl](https://github.com/CharlesPikachu/paperdl): Search and download paper from specific websites.
 
 
 ## 🏆 Github Trophy
