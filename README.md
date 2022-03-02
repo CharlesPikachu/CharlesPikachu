@@ -15,6 +15,7 @@ Hello, I'm [CharlesPikachu](https://charlespikachu.github.io/) 👋
 - [FreeProxy](https://github.com/CharlesPikachu/freeproxy): Collecting free proxies from internet.
 - [Constellation](https://github.com/CharlesPikachu/constellation): Beautiful starry sky written by js.
 - [Paperdl](https://github.com/CharlesPikachu/paperdl): Search and download paper from specific websites.
+- [Sciogovterminal](https://github.com/CharlesPikachu/sciogovterminal): Browse "The State Council Information Office of the People's Republic of China" in the terminal.
 
 
 ## 🏆 Github Trophy
