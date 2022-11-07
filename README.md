@@ -1,7 +1,5 @@
 Hello, I'm [CharlesPikachu](https://charlespikachu.github.io/) 👋
 
-## **Some people ask me about HKU, remember that do not come to HKU statistics.**
-
 ## 🔥 Popular Projects
 
 - [Games](https://github.com/CharlesPikachu/Games): Create interesting games by pure python.
