@@ -22,12 +22,8 @@ Hello, I'm [CharlesPikachu](https://charlespikachu.github.io/) 👋
 - [Pytoydl](https://github.com/CharlesPikachu/pytoydl): A toy deep learning framework built upon numpy.
 - [NovelDL](https://github.com/CharlesPikachu/noveldl): Search and download novels from some specific websites.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CharlesPikachu/CharlesPikachu/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation in the cosmic universe" />
-  <img src="https://raw.githubusercontent.com/CharlesPikachu/CharlesPikachu/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation in the cosmic universe" />
-</p>
-
 ## 🏆 Github Trophy
+
 ![trophy](https://github-profile-trophy-kappa.vercel.app/?username=CharlesPikachu&no-frame=true&margin-w=4&column=7)
 
 <table>
