@@ -24,7 +24,7 @@ Hello, I'm [CharlesPikachu](https://charlespikachu.github.io/) 👋
 
 ## 🏆 Github Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CharlesPikachu)](https://github.com/CharlesPikachu/github-profile-trophy)
+![](https://github-trophies.vercel.app/?username=CharlesPikachu)
 
 <table>
   <tr>
